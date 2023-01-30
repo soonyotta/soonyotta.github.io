@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Shun-Yao Yu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.PNG"
   bio    : "$E = m c^2$"
   links:
     - label: "Website"
