@@ -12,5 +12,5 @@ This is my first notes uploaded to github.
 
 Check out the [Spin liquid states][spinliquidstates] for more information on spin liquid states. 
 
-[spinliquidstataes]: ../Notes/SpinLiquidStates.pdf
+[spinliquidstataes]: https://github.com/soonyotta/soonyotta.github.io/blob/master/Notes/SpinLiquidStates.pdf
 
