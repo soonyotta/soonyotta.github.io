@@ -10,4 +10,4 @@ tags:
 
 This is my second notes uploaded to github.
 
-you can [get the PDF](/Notes/SCintro.pdf) directly.
+you can [get the PDF](/assets/notes/SCintro.pdf) directly.
