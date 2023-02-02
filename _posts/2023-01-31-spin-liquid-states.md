@@ -10,7 +10,7 @@ tags:
 
 This is my first notes uploaded to github.
 
-you can [get the PDF](/Notes/SpinLiquidStates.pdf) directly.
+you can [get the PDF](assets/notes/SpinLiquidStates.pdf) directly.
 
 
 
